@@ -34,7 +34,7 @@ Hands-on labs and projects with screenshots/images and step-by-step walkthrough.
 | Project | Focus |
 |---|---|
 | [Jira Ticket Creation](https://github.com/am-dc-tech/jira-create-ticket-with-documentation) |Create and resolve a help desk password reset ticket|
-| [Jira Microsoft Admin Center](https://github.com/am-dc-tech/Windows-Jira-Tracy-Ticket)  |Password Reset/ Account Locked / Outlook Licensing Issue|
+| [Microsoft Admin Center](https://github.com/am-dc-tech/Windows-Jira-Tracy-Ticket)  |Password Reset/ Account Locked / Outlook Licensing Issue|
 
 
 ## 🖥️ Remote Desktop Protocol Lab
