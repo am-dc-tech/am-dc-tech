@@ -20,7 +20,7 @@ Hands-on labs and projects with screenshots/images and step-by-step walkthrough.
 |---|---|
 | [Basic Password Reset](https://github.com/am-dc-tech/AD-Basic-Password-Reset) | Reset a user's forgotten password (GUI)|
 | [Adding A New User in PowerShell](https://github.com/am-dc-tech/adding-new-users-in-powerShell) | Using Basic PowerShell Commands To Make a User|
-| [Restricted Finance Share](https://github.com/am-dc-tech/using-group-policy-to-have-user-access-specific-drive) | New Drive Only One User Can Access|
+| [Restricted F Drive Share](https://github.com/am-dc-tech/using-group-policy-to-have-user-access-specific-drive) | New Drive Only One User Can Access|
 
 ## 📁 Files and Permissions Lab
 
