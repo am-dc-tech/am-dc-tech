@@ -6,8 +6,8 @@ Entry-level IT support candidate with hands-on practice in Active Directory, Gro
 
 ## About Me
 
-- 🌱 Currently learning: **Networking Fundamentals, Microsoft Admin Center, Microsoft Entra, Microsoft 365, Windows Services, PowerShell Scripts**
-- 💬 Ask me about: **Basic Computer Hardware, Basic Security Fundamentals, Linux Fundamentals, Network Topology**
+- 🌱 Currently learning: **Networking Fundamentals, Microsoft Admin Center, Microsoft Entra, Windows Services, PowerShell Scripts**
+- 💬 Ask me about: **Basic Computer Hardware, Basic Security Fundamentals, Linux Fundamentals, Microsoft 365**
 
 ---
 # IT Portfolio
