@@ -14,7 +14,7 @@ Entry-level IT support candidate with hands-on practice in Active Directory, Gro
 
 Hands-on labs and projects with screenshots/images and step-by-step walkthrough.
 
-## 🔐 Active Directory Projects
+## 🔐 Active Directory Labs
 
 | Project | Notes |
 |---|---|
@@ -22,14 +22,14 @@ Hands-on labs and projects with screenshots/images and step-by-step walkthrough.
 | [Adding A New User in PowerShell](https://github.com/am-dc-tech/adding-new-users-in-powerShell) | Using Basic PowerShell Commands To Make a User|
 | [Restricted Finance Share](https://github.com/am-dc-tech/using-group-policy-to-have-user-access-specific-drive) | New Drive Only One User Can Access|
 
-## 📁 Files and Permissions Labs
+## 📁 Files and Permissions Lab
 
 | Project | Notes |
 |---|---|
 |[Network Share Permissions](https://github.com/am-dc-tech/ntfs-file-permission-for-text-document) | Configure permissions for a shared folder|
 
 
-## 🎫 Ticketing Labs
+## 🎫 Ticketing Lab
 
 | Project | Focus |
 |---|---|
@@ -37,13 +37,13 @@ Hands-on labs and projects with screenshots/images and step-by-step walkthrough.
 | [Jira Microsoft Admin Center ](https://github.com/am-dc-tech/Windows-Jira-Tracy-Ticket)  |Password Reset/ Account Locked / Outlook Licensing Issue|
 
 
-## 🖥️ Remote Desktop Protocol
+## 🖥️ Remote Desktop Protocol Lab
 
 | Project | Notes |
 |---|---|
 | [Remote Desktop File Creation](https://github.com/am-dc-tech/setting-up-rdp-creating-a-new-folder)  |RPD in the Host PC and Create a Folder in the Client VM|
 
-##  <img src="https://www.readmecodegen.com/api/social-icon?name=linux&size=28" alt="linux" />     Linux
+##  <img src="https://www.readmecodegen.com/api/social-icon?name=linux&size=28" alt="linux" />    Linux Lab
 
 | Project | Notes |
 |---|---|
