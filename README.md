@@ -29,7 +29,7 @@ Hands-on labs and projects with screenshots/images and step-by-step walkthrough.
 |[Network Share Permissions](https://github.com/am-dc-tech/ntfs-file-permission-for-text-document) | Configure permissions for a shared folder|
 
 
-## 🎫 Ticketing Lab
+## 🎫 Ticketing Labs
 
 | Project | Focus |
 |---|---|
