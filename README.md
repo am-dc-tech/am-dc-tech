@@ -47,8 +47,6 @@ Hands-on labs and projects with screenshots/images and step-by-step walkthrough.
 
 
 
-
-
 ## 🖥️ Remote Desktop Protocol Lab
 
 | Project | Notes |
@@ -64,8 +62,8 @@ Hands-on labs and projects with screenshots/images and step-by-step walkthrough.
 
 ## 📚 Knowledge Bank
 
-- [Powershell and Command Basic Reference](https://github.com/amtechottawa/Help-Desk-Command-Cheat-Sheet)
-- [IT Help Desk Common Problems and Solutions](https://github.com/amtechottawa/IT-Help-Desk-Problems-and-Troubleshooting-Guide/blob/main/README.md)
+- [Powershell and Command Basic Reference](https://github.com/am-dc-tech/Help-Desk-Command-Cheat-Sheet)
+- [IT Help Desk Common Problems and Solutions](https://github.com/am-dc-tech/IT-Help-Desk-Problems-and-Troubleshooting-Guide)
 - [Basic Linux Commands To Remember](https://github.com/am-dc-tech/Linux-helpdesk-readme/blob/main/linux-helpdesk-README.md)
 
 
