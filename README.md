@@ -36,6 +36,14 @@ Hands-on labs and projects with screenshots/images and step-by-step walkthrough.
 | [Jira Ticket Creation](https://github.com/am-dc-tech/jira-create-ticket-with-documentation) |Create and resolve a help desk password reset ticket|
 | [Microsoft Admin Center / Entra](https://github.com/am-dc-tech/Microsoft-Admin-Center-Labs)  |Password Reset/ Account Locked / Outlook Licensing Issue|
 
+## 🪟 Microsoft 365
+
+| Project | Focus |
+|---|---|
+| [Onboard A New User](https://github.com/am-dc-tech/Microsoft-365-Onboarding-New-User) |Add Users, Give Them Licenses and Add Them to a Shared Mailbox|
+| [Microsoft Admin Center / Entra](https://github.com/am-dc-tech/Microsoft-Admin-Center-Labs)  |Password Reset/ Account Locked / Outlook Licensing Issue|
+
+
 
 ## 🖥️ Remote Desktop Protocol Lab
 
