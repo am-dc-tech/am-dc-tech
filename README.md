@@ -62,5 +62,6 @@ Hands-on labs and projects with screenshots/images and step-by-step walkthrough.
 
 - [Powershell and Command Basic Reference](https://github.com/amtechottawa/Help-Desk-Command-Cheat-Sheet)
 - [IT Help Desk Common Problems and Solutions](https://github.com/amtechottawa/IT-Help-Desk-Problems-and-Troubleshooting-Guide/blob/main/README.md)
+- [Basic Linux Commands To Remember](https://github.com/am-dc-tech/Linux-helpdesk-readme/blob/main/linux-helpdesk-README.md)
 
 
