@@ -57,7 +57,7 @@ Hands-on labs and projects with screenshots/images and step-by-step walkthrough.
 
 | Project | Notes |
 |---|---|
-| [SSH Windows to Linux](https://github.com/am-dc-tech/linux-ssh-client-host-lab-1)  |Going to SSH from Windows Server 2025 to Linux Lite and Put a Text File|
+| [SSH Windows Linux](https://github.com/am-dc-tech/linux-ssh-client-host-lab-1)  |SH from Windows Server 2025 into Linux Lite and transfer a file via command line|
 
 
 ## 📚 Knowledge Bank
