@@ -40,7 +40,7 @@ Hands-on labs and projects with screenshots/images and step-by-step walkthrough.
 
 | Project | Focus |
 |---|---|
-| [Onboard A New User](https://github.com/am-dc-tech/Microsoft-365-Onboarding-New-User) |Add New Users|
+| [Onboard A New User](https://github.com/am-dc-tech/Microsoft-365-Admin-Entra-Labs/tree/main/tkt-001-add-new-user) |Add New Users|
 | [License Escalation](https://github.com/am-dc-tech/Microsoft-365-Admin-Entra-Labs/tree/main/tkt-001-pablo-license-escalation)  |Outlook Licensing Issue|
 | [Password Reset](https://github.com/am-dc-tech/Microsoft-365-Admin-Entra-Labs/tree/main/tkt-002-tracy-password-reset)  |Reset User Password|
 | [Sign In Issue](https://github.com/am-dc-tech/Microsoft-365-Admin-Entra-Labs/tree/main/tkt-003-jamie-cannot-sign-in-error-at-login)  |User Account Locked|
