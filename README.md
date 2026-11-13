@@ -1,13 +1,13 @@
 # IT Support Help Desk Labs
 
-Entry-level IT support candidate with hands-on practice in Active Directory, Group Policy, File Permissions, Linux fundamentals, Virtual machines, and Jira ticketing. This portfolio documents my labs with screenshots/images and step-by-step walkthroughs
+Entry-level IT support candidate building hands-on experience in Microsoft 365 and Entra ID, Active Directory and Jira Ticketing through documented help desk labs.
 
-**Targeting:** Help Desk Technician · IT Support Specialist · Service Desk Analyst · Desktop Support Technician · Technical Support Engineer · IT Technician · End User Support Specialist · Computer Support Specialist
+**Targeting:** Help Desk · IT Support · Service Desk
 
 ## About Me
 
-- 🌱 Currently learning: **Networking Fundamentals, Microsoft Admin Center, Microsoft Entra, Windows Services, PowerShell Scripts**
-- 💬 Ask me about: **Basic Computer Hardware, Basic Security Fundamentals, Linux Fundamentals, Microsoft 365**
+- 🌱 Currently learning: **Microsoft 365 Admin Center · Microsoft Entra ID · PowerShell**
+- 💬 Ask me about: **Microsoft 365 · Active Directory · Help Desk Support · User Account Management**
 
 ---
 # IT Portfolio
