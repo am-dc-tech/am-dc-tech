@@ -60,6 +60,15 @@ Hands-on labs and projects with screenshots/images and step-by-step walkthrough.
 |---|---|
 | [SSH Windows Linux](https://github.com/am-dc-tech/linux-ssh-client-host-lab-1)  |SSH from Windows Server 2025 into Linux Lite and transfer a file via command line|
 
+## Certifications
+
+| Certification | Issuer |
+|---|---|
+| Security+ | CompTIA |
+| Linux Essentials | LPI |
+| Azure Fundamentals (AZ-900) | Microsoft |
+| Cybersecurity Certificate | Google |
+
 
 ## 📚 Knowledge Bank
 
