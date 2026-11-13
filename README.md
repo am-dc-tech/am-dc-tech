@@ -67,7 +67,7 @@ Hands-on labs and projects with screenshots/images and step-by-step walkthrough.
 | Security+ | CompTIA |
 | Linux Essentials | LPI |
 | Azure Fundamentals (AZ-900) | Microsoft |
-| Cybersecurity Certificate | Google |
+| Cybersecurity Professional Certificate | Google |
 
 
 ## 📚 Knowledge Bank
