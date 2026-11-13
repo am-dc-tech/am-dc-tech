@@ -36,7 +36,7 @@ Hands-on labs and projects with screenshots/images and step-by-step walkthrough.
 | [Jira Ticket Creation](https://github.com/am-dc-tech/jira-create-ticket-with-documentation) |Create and resolve a help desk password reset ticket|
 
 
-## 🪟 Microsoft 365 Entra Admin Center
+## 🪟 Microsoft 365 
 
 | Project | Focus |
 |---|---|
