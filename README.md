@@ -44,6 +44,7 @@ Hands-on labs and projects with screenshots/images and step-by-step walkthrough.
 | [License Escalation](https://github.com/am-dc-tech/Microsoft-365-Admin-Entra-Labs/tree/main/tkt-002-pablo-license-escalation)  |Outlook Licensing Issue|
 | [Password Reset](https://github.com/am-dc-tech/Microsoft-365-Admin-Entra-Labs/tree/main/tkt-002-tracy-password-reset)  |Reset User Password|
 | [Sign In Issue](https://github.com/am-dc-tech/Microsoft-365-Admin-Entra-Labs/tree/main/tkt-003-jamie-cannot-sign-in-error-at-login)  |User Account Locked|
+| [MFA For User](https://github.com/am-dc-tech/M365-Admin-Entra-MFA-Lab) |Microsoft 365 and Entra ID covering MFA 
 | [Offboard A User](https://github.com/am-dc-tech/microsoft-365-admin-entra-labs/tree/main/tkt-004-offboarding-user) |Remove User From Organization
 
 
