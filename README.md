@@ -47,6 +47,11 @@ Hands-on labs and projects with screenshots/images and step-by-step walkthrough.
 | [Offboard A User](https://github.com/am-dc-tech/microsoft-365-admin-entra-labs/tree/main/tkt-004-offboarding-user) |Remove User From Organization
 
 
+## 🔐 Microsoft Defender
+
+| Project | Notes |
+|---|---|
+| [Microsoft Entra Security Lab](https://github.com/am-dc-tech/Microsoft-Entra-M365-Security-Lab) |Microsoft Entra ID and Microsoft Defender to practice identity management, access control, and log analysis.|
 
 ## 🖥️ Remote Desktop Protocol Lab
 
