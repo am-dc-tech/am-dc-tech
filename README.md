@@ -69,6 +69,7 @@ Hands-on labs and projects with screenshots/images and step-by-step walkthrough.
 
 | Certification | Issuer |
 |---|---|
+| A+ Core 1 | CompTIA |
 | Security+ | CompTIA |
 | Linux Essentials | LPI |
 | Azure Fundamentals (AZ-900) | Microsoft |
